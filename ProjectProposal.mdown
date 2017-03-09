@@ -1,0 +1,17 @@
+# Mood-Based Music Recommendation Engine / Song Success Predicting Engine
+### Jason Lei
+### Tools: Python, Flask, pandas
+
+### Project description
+
+
+### Audience
+
+
+### Algorithms
+
+
+### Interface
+
+
+## Reference
