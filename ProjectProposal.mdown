@@ -16,4 +16,5 @@ Some difficulties I imagine facing will include obtaining a lexical analysis of 
 ### Interface
 From my broad proposal standpoint, I think that a lot of the challenges in this project will come from the web application itself, which I don’t have much experience building. I’d like to create a web app that allows users to input basic demographic information and their current mood. Then, the application will output a list of songs that it thinks would be appropriate based on its recommendation engine. I’m not entirely sure how to get this engine hosted online and I’m also not sure how I would user input: for example, if a user inputted a mood that didn’t match any of the moods from our testing data, how would the algorithm respond? Would it be better to allow the user to select from a predetermined list of demographic categories and genres?
 
-## Reference
+### Reference
+- [The Million Song Dataset](http://ismir2011.ismir.net/papers/OS6-1.pdf)
