@@ -18,3 +18,6 @@ From our broad proposal standpoint, we think that a lot of the challenges in thi
 
 ### Reference
 - [The Million Song Dataset](http://ismir2011.ismir.net/papers/OS6-1.pdf)
+- [Real-World Mood-Based Music Recommendations](https://www.researchgate.net/publication/221055652_Real-World_Mood-Based_Music_Recommendation)
+- [Implementation and Analysis of Mood-Based Music Recommendation System](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6488291)
+- [Mood-based Music Recommendation Player](http://ieeexplore.ieee.org/document/6012116/)
